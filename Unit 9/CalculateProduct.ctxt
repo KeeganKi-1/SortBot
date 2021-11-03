@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CalculateProduct
+comment1.params=numbers
+comment1.target=int\ calculateProduct(int[])
+numComments=2
